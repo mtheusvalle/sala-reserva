@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaReserva.Application", "SalaReserva.Application\SalaReserva.Application.csproj", "{10BEDE76-C346-482C-9A9A-EA67F4519662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaReserva.Domain", "SalaReserva.Domain\SalaReserva.Domain.csproj", "{575236F8-9DE6-4E84-AF12-C32F49C96BCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaReserva.Infrastructure", "SalaReserva.Infrastructure\SalaReserva.Infrastructure.csproj", "{4FF34D7C-D4F2-4F88-8ACF-F8A2F351F573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaReserva.API", "SalaReserva.API\SalaReserva.API.csproj", "{17CAFBBB-8F07-49F6-8C10-EBB4CB488B24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10BEDE76-C346-482C-9A9A-EA67F4519662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10BEDE76-C346-482C-9A9A-EA67F4519662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10BEDE76-C346-482C-9A9A-EA67F4519662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10BEDE76-C346-482C-9A9A-EA67F4519662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{575236F8-9DE6-4E84-AF12-C32F49C96BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575236F8-9DE6-4E84-AF12-C32F49C96BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575236F8-9DE6-4E84-AF12-C32F49C96BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575236F8-9DE6-4E84-AF12-C32F49C96BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FF34D7C-D4F2-4F88-8ACF-F8A2F351F573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF34D7C-D4F2-4F88-8ACF-F8A2F351F573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF34D7C-D4F2-4F88-8ACF-F8A2F351F573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF34D7C-D4F2-4F88-8ACF-F8A2F351F573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17CAFBBB-8F07-49F6-8C10-EBB4CB488B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CAFBBB-8F07-49F6-8C10-EBB4CB488B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CAFBBB-8F07-49F6-8C10-EBB4CB488B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CAFBBB-8F07-49F6-8C10-EBB4CB488B24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
